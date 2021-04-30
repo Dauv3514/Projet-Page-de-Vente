@@ -1,0 +1,180 @@
+.title {
+	
+font-size : 25px ;
+}
+
+.head .body {
+
+font-family: 'roboto', 'sans-serif' ;
+
+}
+
+
+.conteneur {
+
+display: flex ;
+height : 600px ;
+width: 1167px ; 
+border: 2px solid ;
+
+
+}
+
+.contenu {
+padding : 0px 0px 0px 0px ;
+position : relative ;
+left : 170px ;
+top : 25px ;
+
+
+}
+
+.image {
+position: relative ;
+left : 352px ;
+
+
+}
+
+.texte {
+
+color: #4c4444;
+position: relative ;
+
+}
+
+
+.texte h1 {
+
+font-size: 35px ;	
+}
+
+.texte h2 {
+
+font-size: 14px ;
+font-weight: normal ;
+position:relative ;
+bottom : 15px ;
+}
+
+.texte h3 {
+
+font-size : 25px;
+position : relative ;
+bottom : 10px  ;	
+}
+
+.couleur {
+
+color : #4c4444;
+
+}
+
+.couleur h2 {
+
+font-size : 14px ;
+}
+
+.taille h2 {
+
+font-size : 14px ;
+}
+
+.taille p {
+
+font-weight: normal;
+font-size : 14px ;
+}
+
+.description h2 {
+
+font-size : 14px ;
+
+}
+
+.description p {
+
+font-size : 14px ;
+padding-bottom : 25px ;
+
+}
+
+
+.couleur img {
+
+height: 40px ;
+width: 40px ;
+
+
+}
+
+#color2 {
+
+position : relative ;
+left : 18px ;
+}
+
+#color3 {
+
+position : relative ;
+left : 36px ;
+}
+
+.image img {
+height :600px;
+width: 600px ;
+
+
+}
+
+.boutton {
+
+display : flex ;
+
+
+}
+
+.boutton #acheter {
+border : 2px solid #4c4444  ;
+position : relative ;
+left : 0px ;
+background-color: #4c4444 ;
+color: white ;
+text-decoration: none ;
+font-size : 10px ;
+cursor : pointer;
+width: 85px ;
+height: 26px ;
+text-align: center ;
+padding-top : 10px ;
+
+
+}
+
+
+.boutton #ajoutPanier {
+border : 2px  solid ;
+position : relative ;
+left : 10px ;
+background-color: transparent ;
+cursor : pointer;
+color : #4c4444 ;
+text-decoration : none ; 
+font-size : 10px ;
+width: 85px ;
+height: 26px ;
+text-align: center ;
+padding-top : 10px ;
+}
+
+
+
+.boutton #acheter:hover {
+opacity : 0.8 ;
+
+}
+
+.boutton #ajoutPanier:hover {
+opacity : 0.8;
+
+}
